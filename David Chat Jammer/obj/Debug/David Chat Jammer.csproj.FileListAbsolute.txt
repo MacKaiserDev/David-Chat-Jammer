@@ -1,0 +1,30 @@
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\David Chat Jammer.exe.config
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\David Chat Jammer.exe
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\David Chat Jammer.pdb
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.csproj.CopyComplete
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.exe
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.pdb
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\stefa\source\repos\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.exe.config
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\David Chat Jammer.exe.config
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\David Chat Jammer.exe
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\David Chat Jammer.pdb
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.exe.config
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.exe
+C:\Users\Administrator\Desktop\David Chat Jammer\David Chat Jammer\obj\Debug\David Chat Jammer.pdb
