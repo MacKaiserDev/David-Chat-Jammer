@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Get_TableContent.cs" />
+    <Compile Include="MessageDeleter.cs" />
     <Compile Include="MSSQL_Access.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
